@@ -1191,11 +1191,10 @@
         background-color: white;
         border-radius: 30px;
         box-shadow: 1px 1px 15px 0px #00000040;
-        height: 230px;
         margin-left: 20px;
-        width: 30%;
+        width: 450px;
         height: 328px;
-
+    
     }
 
     #oscar {
@@ -1220,15 +1219,15 @@
         font-size: 25px;
     }
 
-
     .boxes1 {
         display: flex;
         flex-wrap: wrap;
         row-gap: 20px;
-        width: 80%;
         max-width: 1440px;
+  
 
     }
+
 
 
     #h1-6 {
